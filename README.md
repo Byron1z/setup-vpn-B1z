@@ -165,7 +165,7 @@ Next let's look at the IP Address again using the VM browser now that we have co
 <br />
 
 <p>
-  It now shows my VM’s IP Address entirely different, it shows my ISP is from somewhere else and coming from the United States, Florida region specifically. 
+  It now shows my VM’s IP Address being entirely different, it shows my ISP is from somewhere else and coming from the United States, Florida region specifically. 
   
   That’s quite cool.
 </p>
