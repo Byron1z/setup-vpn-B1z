@@ -1,4 +1,4 @@
-# Vitual Private Network (VPN)
+# Virtual Private Network (VPN)
 <p align="center">
 <img src="https://i.imgur.com/MntON5Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -153,7 +153,7 @@ Quick connect gave me the United States
 <br />
 
 <p>
-Next we will look at the IP Address again using the VM browser now that we have connected the VPN to United States. 
+Next let's look at the IP Address again using the VM browser now that we have connected the VPN to United States. 
   
   Browse to the website www.whatismyipaddress.com
 </p>
