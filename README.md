@@ -73,7 +73,7 @@ After creating the Virtual Machine, locate the Public IP Address to the Virtual 
 <br />
 
 
-<h3>Log Into the VM and Find IP Address</h3>
+<h3>Log into the VM and look up VM's IP Address</h3>
 <p>
 Now that we have set up the Virtual Machine, we'll connect it using the application “Remote Desktop Connection” and input the Public IP Address for the VM and then input the set credentials we set when creating the VM. 
   
