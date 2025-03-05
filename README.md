@@ -183,5 +183,5 @@ Virtual Machin IP VPN (USA): 149.22.80.123
 </p>
 <br />
 <P>
-If you no longer need the VM, make sure to delete it from the Asure account for unnecessary charges.
+If you no longer need the VM, make sure to delete it from the Azure account for unnecessary charges.
 </p>
