@@ -15,7 +15,7 @@ This tutorial outlines the prerequisites and installation of using a VPN.<br />
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 Pro (21H2)
+- Windows 10 Pro (22H2)
 
 <h2>Steps</h2>
 
