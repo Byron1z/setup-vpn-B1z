@@ -177,9 +177,9 @@ Looking at this VPN Lab, we see that we have utilized 3 different IP addresses j
 
 Home IP Example (USA): 74.68.56.187
 
-Virtual Machin IP (Japan): 74.226.224.150
+Virtual Machine IP (Japan): 74.226.224.150
 
-Virtual Machin IP VPN (USA): 149.22.80.123
+Virtual Machine IP VPN (USA): 149.22.80.123
 </p>
 <br />
 <P>
