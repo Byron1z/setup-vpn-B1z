@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of using a VPN.<br />
 - Locating IP Through VM (Japan)
 - Connecting to VPN Through VM
 - Locating IP Through VPN (United States)
-
+<br />
 <h2>VPN Setup and Usage (Proton VPN)</h2>
 
 Locate your own personal IP address by going to "www.whatismyipaddress.com" which will be able to show you your local IP address.
