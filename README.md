@@ -170,7 +170,6 @@ Next let's look at the IP Address again using the VM browser now that we have co
   That’s quite cool.
 </p>
 <br />
-
 <h3>Conclusion</h3>
 <p>
 Looking at this VPN Lab, we see that we have utilized 3 different IP addresses just from your local computer to connect to the internet.
