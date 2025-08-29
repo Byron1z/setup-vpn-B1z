@@ -34,7 +34,6 @@ For Privacy Reasons, I won't show my actual Public IP Address, so I'll find an e
 <p>
 <img src="https://github.com/user-attachments/assets/c207e7ce-f9f9-4866-9547-8201062ceee6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
 <p>
 Now we will set up a Windows 10 Pro Virtual Machine on Azure. 
 </p>
@@ -56,21 +55,17 @@ For the Username and Password, you can create your custom information; just reme
 <p>
 <img src="https://i.imgur.com/CBScaHu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
 <p>
 Then select “Review and Create”, once it passes validation select “Create” at the bottom. 
 </p>
-<br />
-
 <p>
 After creating the Virtual Machine, locate the Public IP Address to the Virtual Machine, which for this one is “74.226.224.150”. 
 </p>
 <br />
 
-
 <h3>Log into the VM and look up the VM's Public IP Address</h3>
 <p>
-  Now that we have set up the Virtual Machine, we'll connect it using the application “Remote Desktop Connection” and input the Public IP Address for the VM and then input the credentials we set when creating the VM. 
+  Now that we have set up the Virtual Machine, we'll connect it using the application RDP (Remote Desktop Connection) and input the Public IP Address for the VM and then input the credentials we set when creating the VM. 
   
   Once logged in, we will open the web browser and again look up www.whatismyipaddress.com, this time for the VM's Public IP Address.
 </p>
@@ -83,7 +78,7 @@ After creating the Virtual Machine, locate the Public IP Address to the Virtual 
 <p>
 Browse to https://whatismyipaddress.com/
   
-Look up the IP address for this VM through www.whatismyipaddress.com, and sure enough we see that this VM is showing the location for Japan, in Tokyo specifically.
+Look up the Public IP address for this VM through www.whatismyipaddress.com, and sure enough we see that this VM is showing the location for Japan, in Tokyo specifically.
 </p>
 <br />
 
@@ -102,13 +97,10 @@ On your actual computer, sign up for the free version of Proton VPN
   (https://account.protonvpn.com/signup?plan=free&language=en)
   
 Using the local computer go to protonvpn.com and create a free account (if you use the VM then Japan will display on your browser, so use local computer desktop). 
-
 </p>
-<br />
-
 <p>
-<img src="https://i.imgur.com/0YpkN5x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="https://i.imgur.com/BTnfzhN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0YpkN5x.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/BTnfzhN.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   Once you are logged into your account, copy the URL from the Proton VPN website and then paste the URL to the VM web browser. 
@@ -117,17 +109,14 @@ Using the local computer go to protonvpn.com and create a free account (if you u
 
 <h3>Download Proton VPN Client within the VM</h3>
 <p>
+  Back within your VM, download the Windows version of Proton VPN client. Make sure it's the free version.
 
-Back within your VM, download the Windows version of Proton VPN client. Make sure it's the free version.
-
-Once the application Proton VPN is installed we will log in using the credentials we used when setting up a free account on Proton VPN. Then connect to the VPN through the installed app.  
+  Once the application Proton VPN is installed we will log in using the credentials we used when setting up a free account on Proton VPN. Then connect to the VPN through the installed app.  
 </p>
-<br />
-
 <p>
-<img src="https://i.imgur.com/oOrq4BV.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oOrq4BV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/7kRR7IU.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
-  <img src="https://i.imgur.com/fjPKUzx.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/fjPKUzx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/JIx8JtO.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
