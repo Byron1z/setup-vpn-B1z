@@ -71,7 +71,7 @@ After creating the Virtual Machine, locate the Public IP Address of the Virtual 
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/997490d9-c128-4e98-97d5-dcec3c15e0a2" height="80%" width="90%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/997490d9-c128-4e98-97d5-dcec3c15e0a2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
@@ -81,7 +81,7 @@ Look up the Public IP address for this VM through "www.whatismyipaddress.com", a
 </p>
 
 <p>
-<img src="https://github.com/user-attachments/assets/d5ab0cd9-0c1e-4a12-9462-1b83a7e3ecd0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/d5ab0cd9-0c1e-4a12-9462-1b83a7e3ecd0" height="80%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   Pretty Cool. This is the VM with a Non-VPN connection. 
@@ -111,7 +111,7 @@ Using the local computer, go to protonvpn.com and create a free account (if you 
   Once the application Proton VPN is installed, we will log in using the credentials we used when setting up a free account on Proton VPN. Then connect to the VPN through the installed app.  
 </p>
 <p>
-<img src="https://i.imgur.com/oOrq4BV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oOrq4BV.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/7kRR7IU.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/fjPKUzx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/JIx8JtO.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
