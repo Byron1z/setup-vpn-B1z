@@ -68,20 +68,16 @@ After creating the Virtual Machine, locate the Public IP Address of the Virtual 
   
   Once logged in, we will open the web browser and again look up "www.whatismyipaddress.com", this time for the VM's Public IP Address.
 </p>
-<br />
-
 <p>
 <img src="https://github.com/user-attachments/assets/997490d9-c128-4e98-97d5-dcec3c15e0a2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
 <p>
 Browse to https://whatismyipaddress.com/
   
 Look up the Public IP address for this VM through "www.whatismyipaddress.com", and sure enough, we see that this VM is showing the location for Japan, in Tokyo specifically.
 </p>
-
 <p>
-<img src="https://github.com/user-attachments/assets/d5ab0cd9-0c1e-4a12-9462-1b83a7e3ecd0" height="80%" width="90%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/d5ab0cd9-0c1e-4a12-9462-1b83a7e3ecd0" height="80%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   Pretty Cool. This is the VM with a Non-VPN connection. 
