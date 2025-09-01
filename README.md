@@ -4,7 +4,7 @@
 </p>
 
 <h1>VPN - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of using a VPN.<br />
+This tutorial outlines the prerequisites and installation of using a VPN <br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -32,7 +32,7 @@ Locate your own personal IP address by going to "www.whatismyipaddress.com", whi
 For Privacy Reasons, I won't show my actual Public IP Address, so I'll find an example from Google. 
 
 <p>
-<img src="https://github.com/user-attachments/assets/c207e7ce-f9f9-4866-9547-8201062ceee6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/c207e7ce-f9f9-4866-9547-8201062ceee6" height="80%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now we will set up a Windows 10 Pro Virtual Machine on Azure. 
@@ -46,20 +46,19 @@ Now we will set up a Windows 10 Pro Virtual Machine on Azure.
   We will select the country of Japan.
 </p>
 <p>
-<img src="https://i.imgur.com/C6tXZ2n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/C6tXZ2n.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 For the Username and Password, you can create your custom information; just remember what it is.
 </p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/CBScaHu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CBScaHu.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Then select “Review and Create”, once it passes validation select “Create” at the bottom. 
+Then select “Review and Create”, once it passes validation, select “Create” at the bottom. 
 </p>
 <p>
-After creating the Virtual Machine, locate the Public IP Address to the Virtual Machine, which for this one is “74.226.224.150”. 
+After creating the Virtual Machine, locate the Public IP Address of the Virtual Machine, which for this one is “74.226.224.150”. 
 </p>
 <br />
 
@@ -67,25 +66,23 @@ After creating the Virtual Machine, locate the Public IP Address to the Virtual 
 <p>
   Now that we have set up the Virtual Machine, we'll connect it using the application RDP (Remote Desktop Connection) and input the Public IP Address for the VM and then input the credentials we set when creating the VM. 
   
-  Once logged in, we will open the web browser and again look up www.whatismyipaddress.com, this time for the VM's Public IP Address.
+  Once logged in, we will open the web browser and again look up "www.whatismyipaddress.com", this time for the VM's Public IP Address.
 </p>
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/997490d9-c128-4e98-97d5-dcec3c15e0a2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/997490d9-c128-4e98-97d5-dcec3c15e0a2" height="80%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
 Browse to https://whatismyipaddress.com/
   
-Look up the Public IP address for this VM through www.whatismyipaddress.com, and sure enough we see that this VM is showing the location for Japan, in Tokyo specifically.
+Look up the Public IP address for this VM through "www.whatismyipaddress.com", and sure enough, we see that this VM is showing the location for Japan, in Tokyo specifically.
 </p>
-<br />
 
 <p>
 <img src="https://github.com/user-attachments/assets/d5ab0cd9-0c1e-4a12-9462-1b83a7e3ecd0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
 <p>
   Pretty Cool. This is the VM with a Non-VPN connection. 
 </p>
@@ -96,7 +93,7 @@ Look up the Public IP address for this VM through www.whatismyipaddress.com, and
 On your actual computer, sign up for the free version of Proton VPN 
   (https://account.protonvpn.com/signup?plan=free&language=en)
   
-Using the local computer go to protonvpn.com and create a free account (if you use the VM then Japan will display on your browser, so use local computer desktop). 
+Using the local computer, go to protonvpn.com and create a free account (if you use the VM, then Japan will display on your browser, so use the local computer desktop). 
 </p>
 <p>
 <img src="https://i.imgur.com/0YpkN5x.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
@@ -109,9 +106,9 @@ Using the local computer go to protonvpn.com and create a free account (if you u
 
 <h3>Download Proton VPN Client within the VM</h3>
 <p>
-  Back within your VM, download the Windows version of Proton VPN client. Make sure it's the free version.
+  Back within your VM, download the Windows version of the Proton VPN client. Make sure it's the free version.
 
-  Once the application Proton VPN is installed we will log in using the credentials we used when setting up a free account on Proton VPN. Then connect to the VPN through the installed app.  
+  Once the application Proton VPN is installed, we will log in using the credentials we used when setting up a free account on Proton VPN. Then connect to the VPN through the installed app.  
 </p>
 <p>
 <img src="https://i.imgur.com/oOrq4BV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -125,31 +122,25 @@ Using the local computer go to protonvpn.com and create a free account (if you u
 <p>
 After we log into the VPN, 
 
-On the left hand side of the VPN you can select a country where you want your VPN to be or and choose a VPN server in yet another country. However It seems the free version won't allow you to choose where you want the VPN Server to be located in, so instead we must use the option of "Quick Connect".
+On the left-hand side of the VPN, you can select a country where you want your VPN to be and choose a VPN server in yet another country. However, it seems the free version won't allow you to choose where you want the VPN Server to be located, so instead we must use the option of "Quick Connect".
 
 Quick Connect gave me the United States
 </p>
-<br />
-
 <p>
 <img src="https://i.imgur.com/o07TMrs.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Next let's look at the IP Address again using the VM browser now that we have connected the VPN to United States. 
+Next, let's look at the IP Address again using the VM browser now that we have connected the VPN to the United States. 
   
-  Browse to the website www.whatismyipaddress.com
+Browse to the website www.whatismyipaddress.com
 </p>
-<br />
-
 <p>
 <img src="https://i.imgur.com/rD3fD85.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
-
 <p>
-  It now shows my VM’s IP Address being entirely different, it shows my ISP is from somewhere else and coming from the United States, Florida region specifically. 
+  It now shows my VM’s IP Address being entirely different; it shows my ISP is from somewhere else and coming from the United States, Florida region specifically. 
   
   That’s quite cool.
 </p>
