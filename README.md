@@ -109,7 +109,7 @@ Using the local computer, go to protonvpn.com and create a free account (if you 
 <p>
 <img src="https://i.imgur.com/oOrq4BV.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/7kRR7IU.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
-  <img src="https://i.imgur.com/fjPKUzx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/fjPKUzx.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/JIx8JtO.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
