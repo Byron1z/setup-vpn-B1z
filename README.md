@@ -13,9 +13,9 @@ This tutorial outlines the prerequisites and installation of using a VPN <br />
 - Remote Desktop
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
+<h2>💻 Operating Systems Used</h2>
 
-- Windows 10 Pro (22H2)
+- **Windows 10 Pro (22H2)**
 
 <h2>Steps</h2>
 
