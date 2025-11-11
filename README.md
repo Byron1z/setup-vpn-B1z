@@ -137,20 +137,22 @@ Browse to the website, www.whatismyipaddress.com
 <img src="https://i.imgur.com/rD3fD85.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
   It now shows my VM’s IP Address being entirely different; it shows my ISP is from somewhere else and coming from the **United States, Florida region** specifically. 
   
   That’s quite cool.
 </p>
 <br />
+
 <h3>Conclusion</h3>
 <p>
-Looking at this VPN Lab, we see that we have utilized 3 different IP addresses just from your local computer to connect to the internet.
+Looking at this VPN Lab, we see that we have utilized 3 different Public IP addresses just from your local computer to connect to the internet.
 
 - Home IP Example (USA): 74.68.56.187
 
-- Virtual Machine IP (Japan): 74.226.224.150
+- Virtual Machine IP (**Japan**): 74.226.224.150
 
-- Virtual Machine IP VPN (USA): 149.22.80.123
+- Virtual Machine IP VPN (**USA; Florida**): 149.22.80.123
 </p>
 <br />
 <p>
