@@ -116,11 +116,12 @@ Using the local computer, go to protonvpn.com and create a free account (if you 
 
 <h3>Test VPN</h3>
 <p>
+
 After we log into the VPN, 
 
-On the left-hand side of the VPN, you can select a country where you want your VPN to be and choose a VPN server in yet another country. However, it seems the free version won't allow you to choose where you want the VPN Server to be located, so instead we must use the option of "Quick Connect".
+On the left-hand side of the VPN, you can select a country where you want your VPN to be and choose a VPN server in yet another country. However, it seems the free version won't allow you to choose where you want the VPN Server to be located, so instead we must use the option of "**Quick Connect**".
 
-Quick Connect gave me the United States
+**Quick Connect** gave me the **United States**
 </p>
 <p>
 <img src="https://i.imgur.com/o07TMrs.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
@@ -130,13 +131,13 @@ Quick Connect gave me the United States
 <p>
 Next, let's look at the IP Address again using the VM browser now that we have connected the VPN to the United States. 
   
-Browse to the website www.whatismyipaddress.com
+Browse to the website, www.whatismyipaddress.com
 </p>
 <p>
 <img src="https://i.imgur.com/rD3fD85.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  It now shows my VM’s IP Address being entirely different; it shows my ISP is from somewhere else and coming from the United States, Florida region specifically. 
+  It now shows my VM’s IP Address being entirely different; it shows my ISP is from somewhere else and coming from the **United States, Florida region** specifically. 
   
   That’s quite cool.
 </p>
