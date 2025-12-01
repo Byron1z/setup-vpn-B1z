@@ -100,7 +100,7 @@ Using the local computer, go to protonvpn.com and create a free account (if you 
 </p>
 <br />
 
-<h3>Download Proton VPN Client within the VM</h3>
+<h3>🔵 Download Proton VPN Client within the VM</h3>
 <p>
   Back within your VM, download the Windows version of the Proton VPN client. Make sure it's the free version.
 
@@ -119,7 +119,9 @@ Using the local computer, go to protonvpn.com and create a free account (if you 
 
 After we log into the VPN, 
 
-On the left-hand side of the VPN, you can select a country where you want your VPN to be and choose a VPN server in yet another country. However, it seems the free version won't allow you to choose where you want the VPN Server to be located, so instead we must use the option of "**Quick Connect**".
+On the left-hand side of the VPN, you can select a country where you want your VPN to be and choose a VPN server in yet another country. 
+
+However, it seems the free version won't allow you to choose where you want the VPN Server to be located, so instead we must use the option of "**Quick Connect**".
 
 **Quick Connect** gave me the **United States**
 </p>
