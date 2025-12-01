@@ -84,7 +84,7 @@ Look up the Public IP address for this VM through "www.whatismyipaddress.com", a
 </p>
 <br />
 
-<h3>Sign up for Proton VPN and test the VPN connection</h3>
+<h3>🟦 Sign up for Proton VPN and test the VPN connection</h3>
 <p>
 On your actual computer, sign up for the free version of Proton VPN 
   (https://account.protonvpn.com/signup?plan=free&language=en)
