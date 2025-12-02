@@ -89,7 +89,9 @@ Look up the Public IP address for this VM through "www.whatismyipaddress.com", a
 On your actual computer, sign up for the free version of Proton VPN 
   (https://account.protonvpn.com/signup?plan=free&language=en)
   
-Using the local computer, go to protonvpn.com and create a free account (if you use the VM, then Japan will display on your browser, so use the local computer desktop). 
+Using the local computer, go to protonvpn.com and create a free account,
+
+(if you use the VM, then Japan will display on your browser, so use your Local Computer desktop). 
 </p>
 <p>
 <img src="https://i.imgur.com/0YpkN5x.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
