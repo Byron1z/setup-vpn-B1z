@@ -91,7 +91,7 @@ On your actual computer, sign up for the free version of Proton VPN
   
 Using the local computer, go to protonvpn.com and create a free account,
 
-(if you use the VM, then Japan will display on your browser, so use your Local Computer desktop). 
+(If you use the VM, then Japan will display on your browser, so use your Local Computer desktop). 
 </p>
 <p>
 <img src="https://i.imgur.com/0YpkN5x.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
@@ -123,7 +123,7 @@ After we log into the VPN,
 
 On the left-hand side of the VPN, you can select a country where you want your VPN to be and choose a VPN server in yet another country. 
 
-However, it seems the free version won't allow you to choose where you want the VPN Server to be located, so instead we must use the option of "**Quick Connect**".
+However, it seems the free version **won't** allow you to choose where you want the VPN Server to be located, so instead we must use the option of "**Quick Connect**".
 
 **Quick Connect** gave me the **United States**
 </p>
