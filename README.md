@@ -4,7 +4,8 @@
 </p>
 
 <h1>VPN - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of using a VPN <br />
+This tutorial outlines the prerequisites and installation of using a VPN. 
+<br />
 
 <h2>Environments and Technologies Used</h2>
 
