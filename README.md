@@ -73,7 +73,8 @@ After creating the Virtual Machine, locate the Public IP Address of the Virtual 
 <img src="https://github.com/user-attachments/assets/997490d9-c128-4e98-97d5-dcec3c15e0a2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Browse to https://whatismyipaddress.com/
+
+**🔹️ Browse to**: **https://whatismyipaddress.com/**
   
 Look up the Public IP address for this VM through "www.whatismyipaddress.com", and sure enough, we see that this VM is showing the location for Japan, in Tokyo specifically.
 </p>
