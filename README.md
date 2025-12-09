@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of using a VPN.
 <br />
 <h2>VPN Setup and Usage (Proton VPN)</h2>
 
-Locate your own personal IP address by going to "www.whatismyipaddress.com", which will be able to show you your local IP address.
+Locate your own personal IP address by going to "**www.whatismyipaddress.com**", which will be able to show you your local IP address.
 
 For Privacy Reasons, I won't show my actual Public IP Address, so I'll find an example from Google. 
 
