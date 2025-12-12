@@ -9,7 +9,7 @@ This tutorial outlines the prerequisites and installation of using a VPN.
 
 <h2>Environments and Technologies Used</h2>
 
-- A VPN (Proton VPN)
+- A VPN (**Proton VPN**)
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
